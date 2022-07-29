@@ -11,7 +11,7 @@
   # # INDEX.HTML
   # #
   # Summary status message
-- id: 關閉
+- id: isDown
   translation: 遇到重大問題
 - id: 被打亂了
   translation: 經歷中斷
