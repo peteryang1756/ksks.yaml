@@ -1,0 +1,138 @@
+# English language file for cState
+# Official
+# Version 4.4
+- id: 語言代碼
+  translation: zh
+- id: 語言名
+  translation: 英語
+- id: 語言名稱短
+  translation: 英文
+  # #
+  # # INDEX.HTML
+  # #
+  # Summary status message
+- id: 關閉
+  translation: 遇到重大問題
+- id: 被打亂了
+  translation: 經歷中斷
+- id: 是通知
+  translation: 請閱讀公告
+- id: 正常
+  translation: 未檢測到問題
+  # No JS warning
+- id: noScriptingIntro
+  translation: 哦哦！您似乎禁用了 JavaScript。請
+- id: noScriptingLink
+  translation: 啟用腳本
+- id: noScriptingOutro
+  translation: 以增強您在本網站上的體驗。
+- id: 這是下來
+  translation: 下
+- id: 這被打亂了
+  translation: 中斷
+- id: 這是通知
+  translation: 維護
+- id: 還行吧
+  translation: 操作
+  # "Last checked" + "just now"
+- id: 上次檢查
+  translation: 最近更新時間
+- id: 現在
+  translation: 現在
+- id: 前一段時間
+  translation: 前
+  # Example usage: `5` + `years`
+  # Final result: 'Last checked 5 years ago'
+  # Number goes before string
+  # Use short variants until months
+- id: 幾年前
+  translation: 年
+- id: 幾個月前
+  translation: 月
+- id: 幾天前
+  translation: d
+- id: 幾小時前
+  translation: H
+- id: 分鐘前
+  translation: 分鐘
+- id: 秒前
+  translation: s
+- id: 自動刷新通知
+  translation: 我們將嘗試每 5 分鐘刷新一次
+  # Incidents
+- id: 事件
+  translation: 事故
+- id: 事件歷史
+  translation: 事件歷史
+- id: 解決
+  translation: 解決 # if it's less than a min
+
+- id: 在一分鐘內
+  translation: 不到一分鐘 # continuing the last string
+
+- id: 解決後
+  translation: 解決後 # + 19 min
+
+- id: 停機時間
+  translation: 停機時間
+- id: 停機時間進行中
+  translation: 這個問題還沒有解決
+- id: 暴風雨前的平靜
+  translation: 是暴風雨前的平靜嗎？
+- id: noIncidentsDesc
+  translation: 此狀態頁面沒有記錄的事件。這可能是因為狀態頁面所有者（或所有者）最近設置了他們的狀態頁面，沒有停機時間，或者沒有記錄任何停機時間。
+- id: 繼續閱讀
+  translation: 繼續閱讀
+- id: 上一頁
+  translation: 以前的
+- id: 下一個
+  translation: 下一個
+  # #
+  # # OTHER
+  # #
+- id: 回去
+  translation: 返回
+- id: 回到頂部
+  translation: 回到頂部
+- id: 供電
+  translation: 供電
+- id: 未找到
+  translation: 這裡什麼都沒有。
+- id: 未找到文本
+  translation: 這可能是我們的一個問題。也許我們移動了某個資源，現在它已經消失了。您嘗試查看的資源也可能是空的。但是您是否也介意仔細檢查鏈接？
+- id: RSS
+  translation: 通過 RSS 訂閱
+- id: toAllUpdates
+  translation: 所有更新
+- id: 或者
+  translation: 或者
+- id: 只有這個Feed
+  translation: 只有這個提要
+  # #
+  # # v3
+  # #
+- id: 條目
+  translation: 條目
+- id: 最新到最舊
+  translation: 最新到最舊
+  # #
+  # # v4
+  # #
+- id: notFoundAffected
+  translation: 看起來這個系統要么不存在，要么從未記錄過任何停機時間。
+  # #
+  # # v4.1
+  # #
+- id: 平均係統停機時間
+  translation: 最近，根據平均數據，這個系統看起來已經宕機了大約
+- id: 平均係統停機時間第二部分
+  translation: 一次幾分鐘。
+  # #
+  # # v4.4
+  # #
+- id: 在
+  translation: 在
+- id: 幾週前
+  translation: "w"
+- id: 一年前
+  translation: "年"
